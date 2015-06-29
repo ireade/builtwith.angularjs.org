@@ -3688,6 +3688,27 @@
         "Responsive",
         "Cloud"
       ]
+    },
+    {
+      "name": "Designer News Clone", 
+      "thumb": "dn-clone/thumb.png", 
+      "desc": "A clone of Designer News built with AngularJS and Firebase", 
+      "url": "http://ireade.github.io/ng-designer-news/#/",
+      "info": "http://bitsofco.de/2015/building-a-designer-news-clone",
+      "src": "https://github.com/ireade/ng-designer-news",
+      "submitter": "ireade",
+      "submissionDate": "2015-06-29",
+      "tags": [
+        "Demo", 
+        "CRUD", 
+        "Educational", 
+        "AngularFire", 
+        "Firebase", 
+        "jQuery", 
+        "SASS"
+        "Open Source",
+        "Responsive"
+      ]
     }
 
   ]
